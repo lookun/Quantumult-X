@@ -42,7 +42,7 @@
         "0 9 */7 * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=Epic周免, img-url=https://raw.githubusercontent.com/Orz-3/task/master/epic.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js, tag=疫情日报, img-url=https://raw.githubusercontent.com/Orz-3/task/master/COVID-19.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js, tag=乐心健康步数上传, img-url=https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png, enabled=false",
-        "55 23 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_unsubscribe.js, tag=京东_取关, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
+        "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js, tag=京东_取关, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "11 5 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_blueCoin.js, tag=京东_京小超领蓝币, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_shop.js, tag=京东_京小超进店领豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
          "5 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_club_lottery.js, tag=京东_摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
