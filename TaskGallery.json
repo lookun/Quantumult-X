@@ -66,7 +66,7 @@
         "1 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_info.js, tag=同程小程序2, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tongc.png, enabled=false",
         "13 5 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.js, tag=什么值得买（By @blackmatrix7）, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png",
         "23 5 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/hellobike/hellobike.js, tag=哈啰出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/hellbike.png, enabled=false",
-        "15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=true",
+        "15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=联通营业厅, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js, tag=趣走签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/quwalk.png, enabled=false",
         "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js,tag=梨涡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png, enabled=false",
         "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag=京东_特权值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
