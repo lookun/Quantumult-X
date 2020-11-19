@@ -35,7 +35,7 @@
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/dianshijia.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js, tag=快手极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/kuaishou.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/lkyl.js, tag=微信小程序_来客有礼, img-url=https://raw.githubusercontent.com/Orz-3/task/master/lkyl.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=新浪微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=false",
         "0 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/trainquery.js, tag=火车票及列车时刻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/12306.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js, tag=京喜, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jingxi.png, enabled=false",
