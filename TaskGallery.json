@@ -45,6 +45,7 @@
         "5 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_club_lottery.js, tag=京东_摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "1 1 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_redPacket.js, tag=京东_全民开红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "30 9 * * * https://gitee.com/lxk0301/scripts/raw/master/jd_bean_change.js, tag=京东_京豆通知, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "15 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, enabled=true
         "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东_价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "30 9 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东_派件提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 9 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jegotrip.png, enabled=false",
