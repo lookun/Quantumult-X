@@ -25,7 +25,7 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png, enabled=false",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js, tag=网易考拉, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wykl.png, enabled=false",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png, enabled=false",
-        "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi.js, tag=滴滴出行签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=false",
+        "0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=false",
         "59 23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_reward.js, tag=滴滴出行查询, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=false",
         "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js, tag=小黑盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/heybox.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/dianshijia.png, enabled=false",
