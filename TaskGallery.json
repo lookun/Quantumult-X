@@ -70,6 +70,7 @@
         "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag=京东_特权值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "0 8 * * * https://github.com/congcong0806/surge-list/raw/master/Script/daysmatter.js, tag=倒数日, img-url=https://raw.githubusercontent.com/Orz-3/task/master/daysmatter.png, enabled=false",
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png, enabled=false",
-        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tuhu.png, enabled=false"
+        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tuhu.png, enabled=false",
+        "0 */11 0-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=false"
     ]
 }
