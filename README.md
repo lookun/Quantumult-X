@@ -1,7 +1,7 @@
-# Quantumult-X 自用配置
+# Quantumult-X 自用配置订阅
 
-1、[Cookie.conf](https://github.com/lookun/Quantumult-X/blob/main/Cookie.conf) 获取Cookie数据
+1、[Cookie.conf](https://github.com/lookun/Quantumult-X/blob/main/Cookie.conf) Cookie
 
-2、[Script.conf](https://github.com/lookun/Quantumult-X/blob/main/Script.conf) request或response数据重写
+2、[Script.conf](https://github.com/lookun/Quantumult-X/blob/main/Script.conf) 重写
 
-3、[TaskGallery.conf](https://github.com/lookun/Quantumult-X/blob/main/TaskGallery.json) 定时任务
+3、[TaskGallery.conf](https://github.com/lookun/Quantumult-X/blob/main/TaskGallery.json) 任务
