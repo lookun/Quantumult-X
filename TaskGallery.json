@@ -72,6 +72,8 @@
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png, enabled=false",
         "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tuhu.png, enabled=false",
         "0 */11 0-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js, tag=企鹅读书小程序, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=false",
-        "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js, tag=返利网双12红包, enabled=false"
+        "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js, tag=返利网双12红包, enabled=false",
+        "0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, enabled=false"
+
     ]
 }
