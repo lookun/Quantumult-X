@@ -26,7 +26,7 @@
         "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js, tag=万达电影, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wanda.png, enabled=false",
         "0 11 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png, enabled=false",
         "30 11 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js, tag=什么值买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png, enabled=false",
-        "15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=false",
+        "15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=false",
         "00 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js, tag=滴滴出行_每日签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=false",
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png, enabled=false",
         "0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, enabled=false"
