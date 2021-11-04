@@ -14,7 +14,7 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png, enabled=false",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=新浪微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=false",
-        "15 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=false",
+        "15 17 * * * https://raw.githubusercontent.com/githubdulong/Script/master/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东_价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js, tag=万达电影, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wanda.png, enabled=false",
         "0 11 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png, enabled=false",
