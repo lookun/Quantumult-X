@@ -16,7 +16,8 @@
 
 [lxk0301](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json)
 
-感谢 
+4、作者
+
 [chavyleung](https://github.com/chavyleung/scripts)  
 [songyangzz](https://github.com/songyangzz/QuantumultX)  
 [toulanboy](https://github.com/toulanboy/scripts)  
