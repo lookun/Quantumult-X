@@ -35,3 +35,5 @@
 [ziye12](https://github.com/ziye12/JavaScript)  
 [iisama](https://github.com/iisams/Scripts/master)  
 [congcong0806](https://github.com/congcong0806/surge-list/tree/master)  
+[zZPiglet](https://github.com/zZPiglet/Task/tree/master)
+[NobyDa](https://github.com/NobyDa/Script/tree/master)
