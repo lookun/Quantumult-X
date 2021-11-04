@@ -16,55 +16,53 @@
 
 [lxk0301](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json)
 
-感谢 @chavyleung(https://github.com/chavyleung/scripts)
+感谢 [chavyleung](https://github.com/chavyleung/scripts)
 
-##songyangzz
-##https://github.com/songyangzz/QuantumultX
+[songyangzz]
+(https://github.com/songyangzz/QuantumultX)
 
-##toulanboy
-##https://github.com/toulanboy/scripts
+[toulanboy]
+(https://github.com/toulanboy/scripts)
 
-##Sunert
-##https://github.com/Sunert/Scripts/tree/master/Task
+[Sunert]
+(https://github.com/Sunert/Scripts/tree/master/Task)
 
-##Peng-YM
-##https://github.com/Peng-YM/QuanX/tree/master/Tasks
+[Peng-YM]
+(https://github.com/Peng-YM/QuanX/tree/master/Tasks)
 
-##iepngs
-##https://raw.githubusercontent.com/iepngs/Script/master
+[iepngs]
+(https://raw.githubusercontent.com/iepngs/Script/master)
 
-##lowking
-##https://github.com/lowking/Scripts
+[lowking]
+(https://github.com/lowking/Scripts)
 
-##lxk0301
-##https://github.com/lxk0301/scripts
 
-##vinewx
-##https://ooxx.be/js/
+[vinewx]
+(https://ooxx.be/js/)
 
-##chouchoui
-##https://github.com/chouchoui/QuanX/tree/master/Scripts
+[chouchoui]
+(https://github.com/chouchoui/QuanX/tree/master/Scripts)
 
-##evilbutcher
-##https://github.com/evilbutcher/Quantumult_X/tree/master/check_in
+[evilbutcher]
+(https://github.com/evilbutcher/Quantumult_X/tree/master/check_in)
 
-##id77
-##https://github.com/id77/QuantumultX/tree/master
+[id77]
+(https://github.com/id77/QuantumultX/tree/master)
 
-##dompling
-##https://github.com/dompling/Script
+[dompling]
+(https://github.com/dompling/Script)
 
-##wangdelu2020
-##https://github.com/wangdelu2020/hongliyu
+[wangdelu2020]
+(https://github.com/wangdelu2020/hongliyu)
 
-##barrym-chen
-##https://github.com/barrym-chen/Script
+[barrym-chen]
+(https://github.com/barrym-chen/Script)
 
-##ziye12
-##https://github.com/ziye12/JavaScript
+[ziye12]
+(https://github.com/ziye12/JavaScript)
 
-##iisama
-##https://github.com/iisams/Scripts/master
+[iisama]
+(https://github.com/iisams/Scripts/master)
 
-##congcong0806
-##https://github.com/congcong0806/surge-list/tree/master
+[congcong0806]
+(https://github.com/congcong0806/surge-list/tree/master)
