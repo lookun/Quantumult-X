@@ -7,7 +7,9 @@
    [For_personal_use](https://raw.githubusercontent.com/lookun/Quantumult-X/main/rewrite/For_personal_use.conf)
 
 2、任务脚本
+   
    [TaskGallery.conf](https://github.com/lookun/Quantumult-X/blob/main/TaskGallery.json)
+   
    其他作者task订阅
 
    [blackmatrix7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json)
