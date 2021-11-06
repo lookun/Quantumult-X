@@ -1,22 +1,23 @@
 # Quantumult-X 自用配置订阅(搬运）
 
-1、[Cookie.conf](https://github.com/lookun/Quantumult-X/blob/main/Cookie.conf)  Cookie
+1、重写
+   [For_personal_use_cookies](https://raw.githubusercontent.com/lookun/Quantumult-X/main/rewrite/For_personal_use_cookies.conf)
 
-2、[Script.conf](https://github.com/lookun/Quantumult-X/blob/main/Script.conf)  重写
+   [For_personal_use](https://raw.githubusercontent.com/lookun/Quantumult-X/main/rewrite/For_personal_use.conf)
 
-3、[TaskGallery.conf](https://github.com/lookun/Quantumult-X/blob/main/TaskGallery.json)  任务
+2、任务脚本
+   [TaskGallery.conf](https://github.com/lookun/Quantumult-X/blob/main/TaskGallery.json)
+   其他作者task订阅
 
-其他作者task订阅
+       [blackmatrix7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json)
 
-[blackmatrix7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json)
+       [ChuheGit](https://dove.589669.xyz/task2qxgallery?img=1&filter=jd_%7Cjx_%7CJD&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule)
 
-[ChuheGit](https://dove.589669.xyz/task2qxgallery?img=1&filter=jd_%7Cjx_%7CJD&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule)
+       [Faker](https://cdn.jsdelivr.net/gh/shufflewzc/faker@main/qx.json)
 
-[Faker](https://cdn.jsdelivr.net/gh/shufflewzc/faker@main/qx.json)
+       [lxk0301](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json)
 
-[lxk0301](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json)
-
-4、作者
+3、作者库
 
 [chavyleung](https://github.com/chavyleung/scripts)  
 [songyangzz](https://github.com/songyangzz/QuantumultX)  
