@@ -16,11 +16,12 @@
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=新浪微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=false",
         "15 17 * * * https://raw.githubusercontent.com/githubdulong/Script/master/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东_价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
+        "5 0 * * * https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_priceProtect.js, tag=京东价格保护, img-url=https://raw.githubusercontent.com/ZCY01/img/master/pricev1.png, enabled=false",
         "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js, tag=万达电影, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wanda.png, enabled=false",
         "0 11 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png, enabled=false",
         "30 11 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js, tag=什么值买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png, enabled=false",
         "15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=false",
-        "00 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js, tag=滴滴出行_每日签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=false"
+        "00 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js, tag=滴滴出行_每日签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=false",
 
     ]
 }
