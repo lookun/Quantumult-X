@@ -2,7 +2,7 @@
     "name": "QX Task Gallery",
     "description": "For-own-use",
     "task": [
-        "0 8-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/flhs.js, tag=返利好省, enabled=true,
+        "0 8-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/flhs.js, tag=返利好省, enabled=true",
 
     ]
 }
