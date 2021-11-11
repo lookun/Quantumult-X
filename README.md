@@ -11,6 +11,8 @@
    [TaskGallery.conf](https://github.com/lookun/Quantumult-X/blob/main/TaskGallery.json)
    
    其他作者task订阅
+   
+   [ziye](https://raw.githubusercontent.com/ziye888/JavaScript/7a7f754ce3a59312638fc686a7f48341135a5a74/Task/ziye-gallery.json)
 
    [blackmatrix7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json)
 
