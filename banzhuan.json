@@ -1,6 +1,6 @@
 {
-    "name": "QX Task Gallery",
-    "description": "For-own-use",
+    "name": "QX搬砖",
+    "description": "banzhuan",
     "task": [
         "0 8-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/flhs.js, tag=返利好省, enabled=true",
         "0,30 8 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js, tag=返利购, enabled=true",
