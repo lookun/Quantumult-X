@@ -1,0 +1,38 @@
+hostname = account.huami.com, m.client.10010.com, 110.43.90.61, zt.wps.cn, ms.jr.jd.com, me-api.jd.com, api.m.jd.com, passport.iqiyi.com, *.video.qq.com, v.qq.com, 
+
+## 小米运动修改微信支付宝运动步数获取Token
+;hostname = account.huami.com
+#登入小米运动(登录方式必须是手机号码+密码(没有就用手机号码注册),下面的第三方账号(小米账号,Apple,微信)授权登录不行)
+#登录成功后在 我的->第三方接入->绑定支付宝,微信
+#小米运动只要不退出登录，就会自动获取新的token,即永久有效
+^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://raw.githubusercontent.com/githubdulong/Script/master/xmSports.js
+## 联通每日签到与抽奖(By @blackmatrix7)
+#联通手机营业厅APP经常修改“天天抽奖”入口位置，比较稳定的方法是在联通手机营业厅中搜索“天天抽奖”，直接通过搜索结果进入。
+#每日自动签到，显示已用流量、语音、剩余话费、可用积分，每日抽奖4次。
+#活动期间，每日必得一张30-3的美团外卖优惠券，送到和当前签到同手机号的美团账号上，活动到什么时候结束我也不知道。
+;hostname = m.client.10010.com
+^https?:\/\/m\.client\.10010\.com\/dailylottery\/static\/(integral|doubleball)\/firstpage url script-request-header https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.min.js
+## WPS签到cookie获取(By @Chavyleung)
+;hostname = 110.43.90.61, zt.wps.cn
+#打开 APP , 进入签到页面, 系统提示: 获取会话: 成功 (签到) (不用手动签到)
+^https:\/\/zt.wps.cn\/2018\/docer_check_in\/api\/act_list url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.cookie.js
+## 京东cookie获取（By @NobyDa）
+;hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
+#浏览器打开登录 https://bean.m.jd.com，点击签到并且出现签到日历后，如果通知获得cookie成功，则可以使用此签到脚本。 
+#获取京东Cookie. 
+^https:\/\/(api\.m|me-api)\.jd\.com\/(client\.action\?functionId=signBean|user_new\/info\/GetJDUserInfoUnion\?) url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+#获取钢镚签到body. 
+^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/hy\/h5\/m\/appSign\? url script-request-body https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+## 京东价格保护
+;hostname = api.m.jd.com
+#打开京东手机app-客户服务-申请价保，或者浏览器访问 https://msitepp-fm.jd.com/rest/priceprophone/priceProPhoneMenu
+^https:\/\/api\.m.jd.com\/api\?appid=siteppM&functionId=siteppM_priceskusPull url script-request-body https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_priceProtectRewrite.js
+## 爱奇艺签到cookie获取（By @NobyDa）
+;hostname = passport.iqiyi.com
+#网页登录 https://m.iqiyi.com/user.html
+^https:\/\/passport\.iqiyi\.com\/apis\/user\/info\.action url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+## 腾讯视频签到cookie获取 (By @Chavyleung)
+;hostname = *.video.qq.com, v.qq.com
+#手机浏览器访问: https://film.qq.com/ 随便选 1 部电影观看；
+#手机浏览器访问下: http://v.qq.com/x/bu/mobile_checkin 页面提示提示签到成功，系统提示: 获取Cookie: 成功 （为保成功率，请刷新一下页面再获取一次）。
+^https:\/\/access.video.qq.com\/user\/auth_refresh url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.cookie.js
